@@ -1,5 +1,5 @@
 ## Taru Sharma
-![FB_IMG_1523342663545.jpg](itmo556/FB_IMG_1523342663545.jpg "Me")
+![Me](itmo556/FB_IMG_1523342663545.jpg "Me")
 
  Another picture that represents you or an interest of yours
  ## Where are your From?
