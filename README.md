@@ -1,12 +1,15 @@
-## Taru Sharma
-![Me](itmo556/FB_IMG_1523342663545.jpg "Me")
+### Taru Sharma                                                                                                                                   
+![](FB_IMG_1523342663545.jpg)                                                                                                         
 
- Another picture that represents you or an interest of yours
+ Another picture that represents you or an interest of yours                                                                                                                                                                                                                                
+ 
+ 
  ## Where are your From?
- Short specific explanation of where you are from
- An H2 Header: "What is your IT interest/specialty?"
- A short explanation about your interest in IT/technology
- An H2 Header: "Something Interesting About You?"
- A short explanation of a unique thing about you
- An H2 header: "Git tutorial"
- A screenshot of the badge or "circles" of completion from the Git tutorial
+ I am from Delhi, India.                                                                                                                         
+ 
+ ## IT interest/specialty
+ I have 2 years of experience working for Ericsson in IT Suppport and Operations. I decided to pursue higher education in Computer and Information Security and build a career in the same.                                                                                        
+ ## Something Interesting About You
+ I love bike rides and have travelled 4000 miles across India before coming to United States. It was a great trip covering entire South, West and North India.                                                                                                                                      
+ ## Git tutorial
+![Git Tutorial](GitHub-Tutorial-Taru Sharma.PNG "Git")
