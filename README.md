@@ -10,4 +10,4 @@
  ## Something Interesting About You
  I love bike rides and have travelled 4000 miles across India before coming to United States. It was a great trip covering entire South, West and North India.                                                                                                                                      
  ## Git tutorial
-![Git Tutorial](GitHub-Tutorial-Taru Sharma.PNG "Git")
+![Git Tutorial](git.PNG)
