@@ -1,5 +1,5 @@
 ## Taru Sharma
- A picture of you
+![Me](images/family.jpg "Me")
 
  Another picture that represents you or an interest of yours
  ## Where are your From?
