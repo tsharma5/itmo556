@@ -1,9 +1,7 @@
 ### Taru Sharma                                                                                                                                   
-![](FB_IMG_1523342663545.jpg)                                                                                                         
-
- Another picture that represents you or an interest of yours                                                                                                                                                                                                                                
- 
- 
+![](FB_IMG_1523342663545.jpg)                                                                                                              
+![](20180607_192427.jpg "Me")
+                                                                                                                                            
  ## Where are your From?
  I am from Delhi, India.                                                                                                                         
  
