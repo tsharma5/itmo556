@@ -2,7 +2,7 @@
  A picture of you
 
  Another picture that represents you or an interest of yours
- An H2 header - "Where are your From?"
+ ## Where are your From?
  Short specific explanation of where you are from
  An H2 Header: "What is your IT interest/specialty?"
  A short explanation about your interest in IT/technology
